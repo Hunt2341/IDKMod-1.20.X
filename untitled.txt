@@ -1,0 +1,7 @@
+echo "# IDKMod-1.20.X" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hunt2341/IDKMod-1.20.X.git
+git push -u origin main
